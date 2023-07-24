@@ -1,0 +1,8 @@
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\bin\Debug\simpleCulculator.exe.config
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\bin\Debug\simpleCulculator.exe
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\bin\Debug\simpleCulculator.pdb
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\obj\Debug\simpleCulculator.csproj.AssemblyReference.cache
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\obj\Debug\simpleCulculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\obj\Debug\simpleCulculator.csproj.CoreCompileInputs.cache
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\obj\Debug\simpleCulculator.exe
+C:\Users\Valiasr\source\repos\simpleCulculator\simpleCulculator\obj\Debug\simpleCulculator.pdb
